@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WebXR_Placement",
+"productVersion": "0.1",
+"dataUrl": "build_new.data.unityweb",
+"wasmCodeUrl": "build_new.wasm.code.unityweb",
+"wasmFrameworkUrl": "build_new.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.2f1"
+}
